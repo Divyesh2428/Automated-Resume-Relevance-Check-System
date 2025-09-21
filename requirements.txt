@@ -5,3 +5,4 @@ langchain-google-genai
 spacy
 requests
 PyPDF2
+gunicorn

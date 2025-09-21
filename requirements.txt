@@ -1,0 +1,7 @@
+Flask
+streamlit
+langchain
+langchain-google-genai
+spacy
+requests
+PyPDF2

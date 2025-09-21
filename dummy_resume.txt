@@ -1,0 +1,11 @@
+Name: John Doe
+Email: john.doe@email.com
+
+Experience:
+- Software Engineer at XYZ Corp for 3 years
+- Developed web applications using Python and Flask
+
+Skills:
+- Python, Flask, Django
+- SQL, PostgreSQL
+- JavaScript, HTML, CSS

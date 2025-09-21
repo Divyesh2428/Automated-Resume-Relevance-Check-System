@@ -4,7 +4,7 @@ import PyPDF2
 import io
 
 # Define the URL for our Flask backend
-BACKEND_URL = "http://127.0.0.1:5000/analyze"
+BACKEND_URL = "https://automated-resume-relevance-check-system-1-v2to.onrender.com/analyze"
 
 st.title("Automated Resume Relevance Checker")
 st.subheader("Your AI-powered recruiting assistant.")
